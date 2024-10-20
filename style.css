@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.crossword-container {
+    display: inline-block;
+    margin: 20px auto;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #000;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.clues {
+    margin-top: 20px;
+    text-align: left;
+    display: inline-block;
+}
+
+.clues h2 {
+    margin-bottom: 10px;
+}
